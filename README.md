@@ -197,8 +197,6 @@ parsed receipt will be in the result object:
 }
 ```
 
-=======
->>>>>>> feature/use-shared-secret-and-receipt-field
 ### All Platforms
 
 Regardless of the platform used, besides the platform-specific receipt, the following properties
